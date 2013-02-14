@@ -6,7 +6,9 @@
  */
 public class Account 
 {
-        protected double balance;
+
+
+		protected double balance;
 
         // Constructor to initialize balance
         //  онструктор дл€ инициализации баланс
